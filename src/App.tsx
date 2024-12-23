@@ -1,9 +1,9 @@
-import './App.css';
+import React from 'react';
+import styled from 'styled-components';
 
-function App() {
-    return <>
 
-    </>;
-}
+const App: React.FC = () => {
+    return <></>;
+};
 
 export default App;
